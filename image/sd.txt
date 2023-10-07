@@ -1,2 +1,3 @@
 LingluoYusa/chart-bed-set
+/image/{since_millisecond}+{rand}-{filename}.{suffix}
 https://cdn.jsdelivr.net/gh/{project}@{branch}/{uploadPath}
