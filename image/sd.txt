@@ -1,1 +1,2 @@
 LingluoYusa/chart-bed-set
+https://cdn.jsdelivr.net/gh/{project}@{branch}/{uploadPath}
